@@ -1,0 +1,41 @@
+/* Styling for the header using a class selector */
+.header {
+  background-color: #f0f8ff; /* Light blue background */
+  padding: 20px; /* Padding inside the element */
+  text-align: center; /* Center-align the text */
+}
+
+/* Styling the title using a class selector */
+.title {
+  font-family: 'Arial', sans-serif; /* Change font */
+  color: #333333; /* Dark gray text color */
+  margin: 0; /* Remove default margin */
+}
+
+/* Styling the paragraph using a class selector */
+.paragraph {
+  font-family: 'Georgia', serif; 
+  color: #555555; 
+  margin: 20px; 
+  padding: 10px; /* Inner spacing */
+  border: 2px solid #ddd; /* Light gray border */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Styling the footer using an ID selector */
+#footer {
+  background-color: #333333; /* Dark background */
+  color: #ffffff; /* White text */
+  text-align: center; /* Center the content */
+  padding: 15px; /* Padding inside the footer */
+}
+
+/* Styling the image using a class selector */
+.styled-image {
+  display: block; /* Center the image */
+  margin: 20px auto; /* Vertical space and horizontal centering */
+  padding: 10px; /* Inner spacing */
+  border: 5px solid #ccc; /* Gray border */
+  border-radius: 10px; /* Rounded image corners */
+  width: 300px; /* Fixed width */
+}
